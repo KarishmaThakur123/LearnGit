@@ -1,0 +1,11 @@
+
+
+Doccker uses host operating system , at the top of host os there is a docker engine and with the help of this docker 
+containers were found and these containers have application running in them and there can be multiple
+containers running.
+Docker file builds the docker image and that image contains all the project's code, we can run that img to create many 
+docker containers, then that img can be uploaded on the docker hub, from docker hub anyone can pull the image and 
+BUILD THE container
+
+Basic docker commands:
+ 
